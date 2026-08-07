@@ -1,0 +1,15 @@
+server-python/.env
+server-python/.env.*
+!server-python/.env.example
+server-python/.venv
+server-python/__pycache__
+server-python/**/__pycache__
+server-python/.pytest_cache
+server-python/uploads
+server-python/data.json
+node_modules
+dist
+.git
+.github
+scripts
+*.md
